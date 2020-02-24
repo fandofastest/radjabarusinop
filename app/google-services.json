@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825485797861",
+    "firebase_url": "https://sinop-de216.firebaseio.com",
+    "project_id": "sinop-de216",
+    "storage_bucket": "sinop-de216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825485797861:android:0ba3c8a1d108c3c088a70c",
+        "android_client_info": {
+          "package_name": "com.hdmoviez.full"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825485797861-slabaf6pndi7fmcg04655vjs8kcf2u5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriYB3nmdJ1oX8SmPd3L4KgIJrmfmDIvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825485797861-slabaf6pndi7fmcg04655vjs8kcf2u5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
